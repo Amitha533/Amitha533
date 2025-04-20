@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400"  src="https://i.imgur.com/aNBi8Jf.png"/>
 
 <h2> / about me /</h2>
   
@@ -30,6 +30,5 @@
   </br></br>
   
 <div align="right">
-<a href="https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/471156459_122101743272694908_7146984237578754421_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGBGDYYi-33RS-lkNzgfJaoQvhegDauoCNC-F6ANq6gI90mrieKof9Seu3z5vJl1zw96t3CqAhIws_6pG-Yd3PK&_nc_ohc=F-mHxdVsfsIQ7kNvwGdFBwY&_nc_oc=Adn7LI7zwB_BzGRz25S_csuQtQgFt_fJNpg5UiUrRc1BrYP1KYq07PSYw9iLaFbKf_vltKYdt4ZXBnzMcz1B_xlg&_nc_zt=23&_nc_ht=scontent.fcmb4-2.fna&_nc_gid=i5gRS4gqECFT6TmXHmKu_Q&oh=00_AfH-o8FQkSiTP5J9Defur3BTXCu9FHOo1RU6e-QPzy2fUg&oe=680A56EA"></a>
   </div>
   </div>
