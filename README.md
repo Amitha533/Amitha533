@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400"  src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400"  src="https://media.licdn.com/dms/image/v2/D4D03AQHinUlvePTfZA/profile-displayphoto-shrink_800_800/B4DZZRiGqUHwAc-/0/1745124620901?e=1750896000&v=beta&t=ssKtqqDVYs1-Q3iDOGp6LQOr_MHUZXh6rT3OJy7NKB8"/>
 
 <h2> / about me /</h2>
   
